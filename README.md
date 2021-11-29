@@ -2,7 +2,7 @@
 Animatetus
 
 This will make Animate your Discord Status!
-TOKENHERE
+
 
 Create a status what ever you want in messages.txt
 
